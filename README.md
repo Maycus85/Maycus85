@@ -1,5 +1,5 @@
 # 👋 Hey, I'm **Markus**  
-### Modern Workplace Engineer | Cloud Administrator | Security Specialist
+### Modern Workplace Engineer | Endpoint Management | Cloud Administrator | Security Specialist
 
 ---
 
