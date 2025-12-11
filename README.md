@@ -1,13 +1,11 @@
-<div align="center">
-
-# 👋 Hey, I'm **Markus Lange**  
-### Cloud & Endpoint Management • Azure • Intune • Security • Automation
+# 👋 Hey, I'm **Markus**  
+### Modern Workplace Engineer | Cloud Administrator | Endpoint Security Specialist
 
 ---
 
 ### 🚀 **Who am I?**  
 Cloud-focused IT professional transitioning from creative tech into  
-Modern Endpoint Management, Azure Administration and Security Engineering.  
+Modern Endpoint Management, Cloud Administration and Security Engineering.  
 I build, automate and document real-world enterprise workflows.
 
 ---
@@ -28,12 +26,12 @@ Always expanding into Cloud Security, Automation and DevOps foundations.
 ---
 
 ### 📬 **How to reach me**  
-📧 Email: *[add your email here]*  
-🌐 Instagram / TikTok / OBS Project: *https://www.obs.music*  
-💼 LinkedIn: *[add link here]*  
+📧 Email: *[markusobs123@gmail.com]*  
+🌐 OBS Project: *https://www.obs.music*  
+💼 LinkedIn: *[https://www.linkedin.com/in/markus-lange-02306636/]*  
 
 ---
 
 #### ⭐ If you like my work, feel free to follow my journey or star a repository!
 
-</div>
+
