@@ -15,7 +15,7 @@ Every repository documents real implementations, lessons learned, debugging, and
 ## Currently Building
 
 - 🔐 **Designing Secure Azure Foundation**: a secure Azure base infrastructure (VNet, NSGs, IaC with Bicep and Terraform)
-- 📚 Working through the Microsoft Azure/Security certification path (MD-102 ✅, AZ-900 ✅, SC-900 in progress)
+- 📚 Working through the Microsoft Azure/Security certification path (MD-102 ✅, AZ-900 ✅, SC-900 ✅)
 - 🛠️ Consolidating and documenting past hands-on labs to portfolio standard
 
 ## Featured Projects
@@ -50,7 +50,7 @@ Azure Monitor · Log Analytics · KQL
 
 - ✅ MD-102: Endpoint Administrator Associate
 - ✅ AZ-900: Azure Fundamentals
-- 🔜 SC-900: Security, Compliance & Identity Fundamentals
+- ✅ SC-900: Security, Compliance & Identity Fundamentals
 
 ## Get in Touch
 
