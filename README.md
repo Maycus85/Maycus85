@@ -1,35 +1,58 @@
-# 👋 Hey, I'm **Markus**  
-### Modern Workplace Engineer | Endpoint Management | Cloud Administrator | Security Specialist
+# Hi, I'm Markus 👋
+
+**Building secure cloud infrastructure with Microsoft Azure | Modern Workplace & Identity**
 
 ---
 
-### 🚀 **Who am I?**  
-Cloud-focused IT professional transitioning from creative tech into  
-Modern Endpoint Management, Cloud Administration and Security Engineering.  
-I design, automate and document real-world enterprise workflows.
+## About
 
----
+I enjoy designing secure, well-documented cloud solutions and sharing the engineering decisions behind them.
 
-### 🛠️ **What am I currently working on?**  
-- Building an **End-to-End Modern Endpoint Management Lab** (Autopilot → Intune → Security → Monitoring)  
-- Developing hands-on **Azure & Cloud Security** projects  
-- Strengthening troubleshooting and operational skills for **MD-102** and upcoming **Azure/AWS certifications**  
-- Creating structured documentation and professional GitHub repositories to support real-world learning
+I'm building practical experience in Azure infrastructure, identity, and security by designing and documenting real projects. My focus is on understanding not only how cloud technologies work, but why architectural and security decisions matter.
 
----
+Every repository documents real implementations, lessons learned, debugging, and engineering decisions — not step-by-step tutorials.
 
-### 🔧 **Tools & Technologies I use**  
-**Azure • Entra ID • Intune • Windows Autopilot • Conditional Access**  
-**Microsoft Defender Suite • PowerShell • Terraform • GitHub • Markdown**  
-Continuously expanding into Cloud Security, Automation, Infrastructure-as-Code and DevOps fundamentals.
+## Currently Building
 
----
+- 🔐 **Designing Secure Azure Foundation** — a secure Azure base infrastructure (VNet, NSGs, IaC with Bicep and Terraform)
+- 📚 Working through the Microsoft Azure/Security certification path (MD-102 ✅, AZ-900 ✅, SC-900 in progress)
+- 🛠️ Consolidating and documenting past hands-on labs to portfolio standard
 
-### 📬 **How to reach me**  
-📧 Email: **markusobs123@gmail.com**  
-🌐 OBS Project: https://www.obs.music  
-💼 LinkedIn: https://www.linkedin.com/in/markus-lange-02306636/
+## Featured Projects
 
----
+| Project | Description |
+|---|---|
+| 🤖 [**etsy-automation**](https://github.com/Maycus85/etsy-automation) | Fully automated GitHub Actions pipeline — AI image generation, quality validation, multilingual listing creation, and deployment. Built with AI-assisted development; architecture, integration, and debugging owned end-to-end. |
+| 💻 [**intune-autopilot-reference-lab**](https://github.com/Maycus85/intune-autopilot-reference-lab) | Hands-on reference lab for Microsoft Intune, Autopilot, Entra ID and Conditional Access — including device compliance, Autopilot deployment, and Conditional Access enforcement. Built for MD-102 certification and real-world Zero Trust scenarios. |
+| ☁️ **Secure Azure Foundation** *(in progress)* | Secure Azure base infrastructure — VNet segmentation, least-privilege NSGs, and Infrastructure as Code with Bicep and Terraform. |
 
-#### ⭐ If you like my work, feel free to follow my journey or star a repository!
+## Tech Stack
+
+**Cloud**
+Microsoft Azure · Entra ID
+
+**Security**
+Conditional Access · Key Vault · Microsoft Defender for Cloud
+
+**Endpoint Management**
+Microsoft Intune · Windows Autopilot
+
+**Automation**
+GitHub Actions · PowerShell
+
+**Infrastructure as Code**
+Bicep · Terraform
+
+**Monitoring**
+Azure Monitor · Log Analytics · KQL
+
+## Certifications
+
+- ✅ MD-102: Endpoint Administrator Associate
+- ✅ AZ-900: Azure Fundamentals
+- 🔜 SC-900: Security, Compliance & Identity Fundamentals
+
+## Get in Touch
+
+💼 [LinkedIn](https://www.linkedin.com/in/markus-lange-02306636/)
+📧 markusobs123@gmail.com
