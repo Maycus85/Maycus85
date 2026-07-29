@@ -23,7 +23,7 @@ Every repository documents real implementations, lessons learned, debugging, and
 | Project | Description |
 |---|---|
 | 🤖 [**etsy-automation**](https://github.com/Maycus85/etsy-automation) | Fully automated GitHub Actions pipeline. AI image generation, quality validation, multilingual listing creation, and deployment. Built with AI-assisted development; architecture, integration, and debugging owned end-to-end. |
-| 💻 [**intune-autopilot-reference-lab**](https://github.com/Maycus85/intune-autopilot-reference-lab) | Hands-on reference lab for Microsoft Intune, Autopilot, Entra ID and Conditional Access, including device compliance, Autopilot deployment, and Conditional Access enforcement. Built for MD-102 certification and real-world Zero Trust scenarios. |
+| 💻 [**enterprise-endpoint-management-lab**](https://github.com/Maycus85/enterprise-endpoint-management-lab) | Hands-on reference lab for Microsoft Intune, Autopilot, Entra ID and Conditional Access, including device compliance, Autopilot deployment, and Conditional Access enforcement. Built for MD-102 certification and real-world Zero Trust scenarios. |
 | ☁️ **Secure Azure Foundation** *(in progress)* | Secure Azure base infrastructure, VNet segmentation, least-privilege NSGs, and Infrastructure as Code with Bicep and Terraform. |
 
 ## Tech Stack
