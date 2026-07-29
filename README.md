@@ -15,14 +15,14 @@ Every repository documents real implementations, lessons learned, debugging, and
 ## Currently Building
 
 - 🔐 **Designing Secure Azure Foundation**: a secure Azure base infrastructure (VNet, NSGs, IaC with Bicep and Terraform)
-- 📚 Working through the Microsoft Azure/Security certification path (MD-102 ✅, AZ-900 ✅, SC-900 ✅)
+- 📚 Working through the Microsoft Azure/Security certification path (MD-102 ✅, AZ-900 ✅, SC-900 in progress)
 - 🛠️ Consolidating and documenting past hands-on labs to portfolio standard
 
 ## Featured Projects
 
 | Project | Description |
 |---|---|
-| 🤖 [**etsy-automation**](https://github.com/Maycus85/etsy-automation) | Fully automated GitHub Actions pipeline. AI image generation, quality validation, multilingual listing creation, and deployment. Built with AI-assisted development; architecture, integration, and debugging owned end-to-end. |
+| 🤖 [**marketplace-automation-pipeline**](https://github.com/Maycus85/marketplace-automation-pipeline) | Fully automated GitHub Actions pipeline. AI image generation, quality validation, multilingual listing creation, and deployment. Built with AI-assisted development; architecture, integration, and debugging owned end-to-end. |
 | 💻 [**enterprise-endpoint-management-lab**](https://github.com/Maycus85/enterprise-endpoint-management-lab) | Hands-on reference lab for Microsoft Intune, Autopilot, Entra ID and Conditional Access, including device compliance, Autopilot deployment, and Conditional Access enforcement. Built for MD-102 certification and real-world Zero Trust scenarios. |
 | ☁️ **Secure Azure Foundation** *(in progress)* | Secure Azure base infrastructure: VNet segmentation, least-privilege NSGs, and Infrastructure as Code with Bicep and Terraform. |
 
@@ -50,7 +50,7 @@ Azure Monitor · Log Analytics · KQL
 
 - ✅ MD-102: Endpoint Administrator Associate
 - ✅ AZ-900: Azure Fundamentals
-- ✅ SC-900: Security, Compliance & Identity Fundamentals
+- 🔜 SC-900: Security, Compliance & Identity Fundamentals
 
 ## Get in Touch
 
