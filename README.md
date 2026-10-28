@@ -50,7 +50,7 @@ Azure Monitor · Log Analytics · KQL
 
 - ✅ MD-102: Endpoint Administrator Associate
 - ✅ AZ-900: Azure Fundamentals
-- 🔜 SC-900: Security, Compliance & Identity Fundamentals
+- ✅ SC-900: Security, Compliance & Identity Fundamentals
 
 ## Get in Touch
 
